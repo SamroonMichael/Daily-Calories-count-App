@@ -4,7 +4,7 @@ This app is used to count an individual daily calories needs based on their acti
 
 ## Installation
 
-Use it and make it have fun.
+Use it and have fun.
 
 ```bash
 $ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
